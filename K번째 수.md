@@ -22,4 +22,4 @@ function solution(array, commands) {
 }
 ```
 
-sort((a,b)=>{return a-b})를 
+- sort((a,b)=>{return a-b})를 하는 이유는 문자열을 숫자로 정렬하기 위해
